@@ -1,0 +1,16 @@
+body { background-color: ;}
+h1,h3{color: rgba(0, 255, 64, 0.499); font-size: 2 cm;
+text-align: center;
+font-weight:bold ;
+font-family: "Roboto", sans-serif;
+text-transform: uppercase;
+text-decoration: dashed;
+}
+
+h2,h4 {color: chocolate; }
+
+div p small { color: red; 
+background-color: blueviolet;}
+
+div p { line-height: 1.5; }
+
