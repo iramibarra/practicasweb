@@ -1,0 +1,75 @@
+
+* {margin: 0%;
+padding: 0; }
+
+header, div, nav, a {box-sizing: border-box; }
+
+body  {<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet"> } 
+
+h1 { }
+
+h2 { }
+
+
+
+
+.cabecera { width: 100%; 
+            min-height: 1px; 
+            background: blue;}
+
+.bar { width: 100%;
+    min-height: 1px; }
+
+.logo { text-align: center;
+    font-size: 3cm; 
+    padding: 8px 0px;}
+
+
+.menu { width: 100%;
+        min-height: 1px;}
+
+
+.links {    width: 100%;
+        min-height: 1px; 
+        background-color: whitesmoke;
+        padding: 0px 8px 0px 0px;
+        display: flex;}
+
+.items {width: 25% ;
+        height: 30px;
+        text-align: center; 
+        padding: 8px 0px;
+        border: 1px solid black;
+        text-decoration: none; 
+        color: black; 
+        text-transform: uppercase;
+        font-size: 0.3cm;
+        font-weight: 10;} 
+       
+.items:active { background: gray; 
+                color: whitesmoke; 
+            }
+
+
+@media only screen and  { min-width: 1024px ; }    
+
+.links { width: 80%;
+        margin: auto; }
+
+.items:first-child  { border-top-left-radius: 20px; 
+                        border-bottom-left-radius: 20px;}
+
+.items:last-child  { border-top-right-radius: 20px; 
+                border-bottom-right-radius: 20px;}
+
+.links { position: relative; 
+        top: 22px; }
+    
+
+
+
+
+
+

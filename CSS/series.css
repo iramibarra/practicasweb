@@ -1,0 +1,33 @@
+
+.contenedor {display: flex;
+            padding: 20px;
+            
+            min-height: 1000px;
+            min-width: 1000px;}
+
+            
+
+.serie1 { width: auto;
+    padding: auto;} 
+
+
+
+.serie1 img {width: 10px;
+    height: 10px;  }
+    
+
+
+
+.serie2 { width: auto;
+    padding: auto;} 
+
+.serie2 img { width:auto;
+    height: auto}   
+
+
+
+.serie3 { width: auto;
+    padding: auto;}    
+.serie3 img {width: auto;
+height: auto; }
+

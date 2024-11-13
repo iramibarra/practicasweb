@@ -1,0 +1,16 @@
+/*documento css*/
+* {margin: 1;
+    padding: 1; }
+    
+
+    body {font-family: "Sixtyfour Convergence", sans-serif; color: rgb(0, 0, 0);}
+
+.comida {display: flex; 
+width: 60%;
+margin: auto;}
+
+.cabecera {text-align: center; }
+.cabecera img {margin: auto;
+display: block; }
+
+.receta {width: 50%; }
